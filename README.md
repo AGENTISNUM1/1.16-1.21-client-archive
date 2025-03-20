@@ -173,7 +173,8 @@ Payed clients are marked with **[$]**
 > **Doomsday Client**: [Website](https://doomsdayclient.com/)
 
 >  **Oyvey Port**: [Github](https://github.com/mioclient/oyvey-ported)
- 
+
+> **CatLean Client**: [Website](https://catlean.fun/)
 
 ### Credits: 
 
