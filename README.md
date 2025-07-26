@@ -2,7 +2,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Made%20By%20-%20Wizard_11%20-%20purple)
 
-This is an archive with hacked clients for the latest versions of minecraft. 
+
+## This list is oudated! 
 
 Cracked clients are marked with **[*]**
 
