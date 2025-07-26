@@ -12,8 +12,6 @@ Cracked clients are marked with **[*]**
 
 Payed clients are marked with **[$]**
 
-Suspicious/Ratted clients are marked with **[!]**
-
 **Enjoy!**
 
 ## Client Archive:
@@ -180,7 +178,7 @@ Suspicious/Ratted clients are marked with **[!]**
 
 > **Aoba Client**: [Aoba Website](https://www.aobaclient.com/download)
 
-> **[!] Alien Client**: [Github](https://github.com/iM4dCat/Alien/releases)
+> **Alien Client**: [Github](https://github.com/iM4dCat/Alien/releases)
 
 > **Doomsday Client**: [Website](https://doomsdayclient.com/)
 
