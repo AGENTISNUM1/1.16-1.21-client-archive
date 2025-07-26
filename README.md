@@ -12,6 +12,8 @@ Cracked clients are marked with **[*]**
 
 Payed clients are marked with **[$]**
 
+Suspicious/Ratted clients are marked with **[!]**
+
 **Enjoy!**
 
 ## Client Archive:
@@ -96,6 +98,8 @@ Payed clients are marked with **[$]**
 
 > **[*] Prestige Crack**: [External Site](https://crystalpvp.ru/prestige)
 
+> **[*] Old Shoreline Crack**: [Github](https://github.com/pisun6666/shoreline-main) 
+
 > **[$] Boze Client**: [Website (18 USD)](https://boze.dev/)
 
 > **[$] Bloody Client**: [Website (20 USD)](https://bloody-client.site/)
@@ -110,6 +114,8 @@ Payed clients are marked with **[$]**
 
 > **Wurst Client**: [Dowload the latest Wurst version](https://www.wurstclient.net/download/)
 
+> **BleachHack**: [Bleachhack Website](https://bleachhack.org/) 
+
 > **Meteor Client**: [Website](https://meteorclient.com/) **/** [Archive](https://github.com/ManInMyVan/meteor-archive)
 
 > **Postman Client**: [Github](https://github.com/srgantmoomoo/postman?tab=readme-ov-file)
@@ -117,8 +123,6 @@ Payed clients are marked with **[$]**
 > **ThunderHack Recode**: [Github](https://github.com/Pan4ur/ThunderHack-Recode)
 
 > **Aristois**: [Aristois Installer](https://aristois.net/)
-
-> **Shoreline**: [Shoreline Jar](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/shoreline-1.0.jar) 
 
 > **LiquidBounce**: [Website](https://liquidbounce.net/download)
 
@@ -144,6 +148,8 @@ Payed clients are marked with **[$]**
 
 ### 1.21 Clients
 
+> **[$] Grim Client**: [Website (40 USD)](https://grimclient.pl) 
+
 > **[$] Boze Client**: [Website (18 USD)](https://boze.dev/)
 
 > **[$] Future Client**: [Website (20 USD)](https://www.futureclient.net/)
@@ -152,7 +158,15 @@ Payed clients are marked with **[$]**
 
 > **[$] Mio Client**: [Website (20 USD)](https://www.mioclient.me/)
 
-> **[$] Boze Client**: [Website](https://crystalpvp.ru/boze/) 
+> **[*] Boze Crack**: [Github](https://github.com/TwoNick/boze)/[Older Crack](https://crystalpvp.ru/boze/)
+
+> **[*] Mio Crack**: [Github](https://github.com/TwoNick/mio)
+
+> **[*] Shoreline Beta Crack**: [Github](https://github.com/Skitttyy/shoreline-client)/[Older Crack](https://github.com/TwoNick/shoreline?tab=readme-ov-file) 
+
+> **[*] Future Crack**: [Github](https://github.com/TwoNick/future-1.21.1)
+
+> **[*] Grim Crack**: [Github](https://github.com/TwoNick/grim) 
 
 > **Wurst Client**: [Dowload the latest Wurst version](https://www.wurstclient.net/download/)
 
@@ -166,9 +180,7 @@ Payed clients are marked with **[$]**
 
 > **Aoba Client**: [Aoba Website](https://www.aobaclient.com/download)
 
-> **3arthh4ck Fabric**: [Github](https://github.com/3arthh4ckDevelopment/3arthh4ck-Fabric)
-
-> **Alien Client**: [Github](https://github.com/iM4dCat/Alien/releases)
+> **[!] Alien Client**: [Github](https://github.com/iM4dCat/Alien/releases)
 
 > **Doomsday Client**: [Website](https://doomsdayclient.com/)
 
@@ -178,14 +190,12 @@ Payed clients are marked with **[$]**
 
 ### Credits: 
 
-> [Smug2f](https://github.com/Smug2f) and his [Fast Client Archive](https://github.com/Smug2f/Fast-Client-Archive) for the inspiration.
-
 > [ManInMyVan](https://github.com/ManInMyVan) (best github username ever) and his [Meteor Client Archive](https://github.com/ManInMyVan/meteor-archive)
 
 > [Kilab Gaming](https://www.youtube.com/@KiLABGaming) and his CCOs (Complete Client Overviews) for some safe clients.
 
 > [Mc-Hacks.net](https://mc-hacks.net/) for a list of confirmed safe clients.
 
-> [PlutoSolutions](crystalpvp.ru), an epic cool crack team, for providing most of the cracks in this archive. Also the Mio Client devs.
+> [PlutoSolutions](https://crystalpvp.ru/), an epic cool crack team, for providing most of the cracks in this archive. Also the Mio Client devs.
 
-Check out my other projects, like my [Meteor Future Archive](https://github.com/AGENTISNUM1/meteor-future)
+> [TwoNick](https://github.com/TwoNick) for making some of the cracks used in this archive. (mio, shoreline, grim, etc) 
